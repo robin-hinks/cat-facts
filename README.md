@@ -1,3 +1,3 @@
 # cat-facts
-cat facts
-that's it
+cat facts. 
+that's all.
